@@ -180,35 +180,16 @@ SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aurora/depic
 
 Package: me.luki.azure
 Architecture: iphoneos-arm
-Version: 0.9.0
-Section: Utilities
-Maintainer: Luki
-Installed-Size: 700
-Filename: ./debians/root/me.luki.azure_0.9.0_iphoneos-arm.deb
-Size: 221380
-MD5sum: 0bbe541456e6a38a4727070f906f8556
-SHA1: 6b148a3fd132ef2ab978e670dd7bf6c27af3bb58
-SHA256: 4f9963f6236d42600f99ea8ef558d7b9c88087d885c98726bdcde3aaaf28810c
-SHA512: e61f8639528dd0b8854da1e355b0cc95f437a3746f907bbbc3bd2d45e43788312c1a416f88308449081a862acfaa53f41113561292e2fc7535ffc91e54071218
-Description: FOSS TOTP 2FA app with a clean, straightforward UI
-Name: Azure
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/Azure/main/Resources/AzureIcon.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.azure
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.azure/depiction.json
-
-Package: me.luki.azure
-Architecture: iphoneos-arm
-Version: 0.9.2
+Version: 0.9.4
 Section: Utilities
 Maintainer: Luki
 Installed-Size: 708
-Filename: ./debians/root/me.luki.azure_0.9.2_iphoneos-arm.deb
-Size: 226704
-MD5sum: bbec6be82bbdf3b3a39619fd5646667f
-SHA1: 84a9209e3302439b992f5f6f539a44dde12dbf83
-SHA256: cb5b79045f2da146f58e9379122d277fc579928cf508c62b47d42b5337cff987
-SHA512: 24c2faf32f1176775443356c994aba2c03cf643e9dc9d685ad2746df352a6e6104be20b4044269f7032eaaa8e6cabbe75838079c6b79d00232c35aa7ef469acf
+Filename: ./debians/root/me.luki.azure_0.9.4_iphoneos-arm.deb
+Size: 226254
+MD5sum: 2ce6dc879eb0da1fed5d87ef1e7725b1
+SHA1: 9a51b82f6065cca01ba3fd4d14c65225722d5244
+SHA256: cb9bf22f61558e6953779da240933d8866a147b017be5e043f279371984656fe
+SHA512: 1d2fa5f4d58c6c9dfbced4db6959dba896c10f4dce4dd89b27006b9dce84e98edf9878753558dd93b444f5f37ead99008670b704b2270839b8494a728276d8c7
 Description: FOSS TOTP 2FA app with a clean, straightforward UI
 Name: Azure
 Author: Luki
@@ -784,35 +765,16 @@ SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aurora/depic
 
 Package: me.luki.azure
 Architecture: iphoneos-arm64
-Version: 0.9.0
-Section: Utilities
-Maintainer: Luki
-Installed-Size: 700
-Filename: ./debians/rootless/me.luki.azure_0.9.0_iphoneos-arm64.deb
-Size: 221480
-MD5sum: 4bc8790e7fa1e8042bb02395a1100c3f
-SHA1: ea363cb0b943f72bc8669a5732e551bd0a784819
-SHA256: 158e1621291fb3d2b59dd1643fafe53adf0bf6d5618939d64ef52254fdc0d292
-SHA512: bcdfb263cf19219a997e35ad9dbe7ad3ef483dfc6a2d560a6d0ba9f4d5d9cf062351ba81e3c96d5fa2f785be3650af51321a29ef32d7000d16f75c4c50d4398e
-Description: FOSS TOTP 2FA app with a clean, straightforward UI
-Name: Azure
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/Azure/main/Resources/AzureIcon.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.azure
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.azure/depiction.json
-
-Package: me.luki.azure
-Architecture: iphoneos-arm64
-Version: 0.9.2
+Version: 0.9.4
 Section: Utilities
 Maintainer: Luki
 Installed-Size: 708
-Filename: ./debians/rootless/me.luki.azure_0.9.2_iphoneos-arm64.deb
-Size: 226676
-MD5sum: 69bc7a169165ca496eca462576657e7b
-SHA1: 5049241566058a04d8fa3eaf9dac2dbe88287731
-SHA256: acc1befb5c68ce76b319de91dda557437038633ebfe50b7bbde3ec18ddf0ff75
-SHA512: 3b742fc260c76e597203e87ac6ce2d611c4790d013fbf797c1f8928dcff265514ee6e8393b6ebed5a1319ea8ef9108ee0943a6f5eb18a73a0bbb606af416cae2
+Filename: ./debians/rootless/me.luki.azure_0.9.4_iphoneos-arm64.deb
+Size: 226430
+MD5sum: 275363307ea5a4de3f35e59d6f5d5a22
+SHA1: 04847e0e0249d306a1f171d937a7cabf37370132
+SHA256: c1dc6c866bc8c61fe482f1122377f5f18ee94144e20ddd7828bfd126bc56d25d
+SHA512: 9d80927c05e4962032f8a545412b4ba58205ea2890c8493642a809f9b8b56c13e361017ebb6a3f01077bcc26fb8a8408f681e7ec04e66de7e6f2d06e23e94f87
 Description: FOSS TOTP 2FA app with a clean, straightforward UI
 Name: Azure
 Author: Luki

@@ -1,0 +1,36 @@
+<package>
+	<id>me.luki.canna</id>
+	<name>Canna</name>
+	<version>0.9.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>iOS 6 (or custom) charging &amp; lock sounds.</shortDescription>
+	<descriptionlist>
+		<description>
+		<![CDATA[iOS 6 (or custom) charging & lock sounds. <br />
+		• If you want to use a custom sound, replace connect_power.caf & lock.caf in ⇝ /var/jb/Library/Tweak Support/Canna/ (your files must be named the same)
+		]]>
+	</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/SmallTweaks/tree/main/SpringBoard/Canna</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>

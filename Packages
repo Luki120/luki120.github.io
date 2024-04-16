@@ -216,6 +216,25 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.byebyeadvisorylabel
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.byebyeadvisorylabel/depiction.json
 
+Package: me.luki.canna
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debians/root/me.luki.canna_0.9.0_iphoneos-arm.deb
+Size: 53138
+MD5sum: 81d45a8653cd72d00960d62c3adbcc22
+SHA1: 3c46d6388203d193b4bedeac5d3fc539c5a37a08
+SHA256: f8b7c7f6e4df04deaf10ddc343f08b8f02c7051e9e280c4ff177f35c6089f32a
+SHA512: 420525138810ca03840bb1979370d58a68b83b7f7223346d336c45b8fb2fdd32d9d3740c4fbc0af27211184cd4c0c049846512230e491b6bb987400d622d3144
+Description: iOS 6 (or custom) charging & lock sounds
+Name: Canna
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.canna
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.canna/depiction.json
+
 Package: me.luki.cora
 Architecture: iphoneos-arm
 Version: 0.9.0
@@ -411,6 +430,26 @@ Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
 
+Package: me.luki.iwanttranslucent
+Architecture: iphoneos-arm
+Version: 0.9.4
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/root/me.luki.iwanttranslucent_0.9.4_iphoneos-arm.deb
+Size: 5858
+MD5sum: a49fa7cd8eb2562705fdfaabfa780eac
+SHA1: bda1eecfff9f89ce2bfe9b163ae5a5675fdd02ec
+SHA256: fd41ad61dda20b8f69789ccc0150131a2e20d7fce2f9f2e267f7852d0464c8c3
+SHA512: 42178f0fc9116178d81d59ab996a29daf84f813695078353d04b2ab14807000294f3037453ee378bfe721460db21982d9a21d2ac1ac76148280009a3ebfc5bcd
+Description: An awesome MobileSubstrate tweak indeed
+Name: IWantTranslucent
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/SpringBoard/IWantTranslucent/IWantTranslucent.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
+
 Package: me.luki.kaia
 Architecture: iphoneos-arm
 Version: 0.9.0
@@ -521,6 +560,25 @@ MD5sum: 5e8fa5a03d0ac0d454daa793a7041776
 SHA1: 09acab4e49fe123dbfa5ef96c7f2fb0f673a75f9
 SHA256: 47db35d4b4eaffe55bb7ca342662fd288fe7883c2c7514cef88f48d6d152382d
 SHA512: 227b06c2f1961a6096cf5c6b441d330ad7ebfd95a8193c3dc0ff9b6b49b7929ebd0d69e4665666fb892fc3387ae1748b22114013cdfce160ded2382446dbc584
+Description: Respring smoothly and with ease invoking the reachability gesture
+Name: ReachSpring
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.reachspring
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.reachspring/depiction.json
+
+Package: me.luki.reachspring
+Architecture: iphoneos-arm
+Version: 0.9.2
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/root/me.luki.reachspring_0.9.2_iphoneos-arm.deb
+Size: 3538
+MD5sum: e155075af6ab7ee7c80a1ba376903eb6
+SHA1: a8ca004a9797ac518805644f822ba22eee140d7d
+SHA256: 7ccf91d5d951df9a9ee0a54ec7903d069397d5201d83d4757690215df969b40e
+SHA512: 4543828751fb765eaec9a61c618126d9a929ab170f65b5c2cf23cb9e89f2d156830152dbd5a44c0105b5098703042fce9643ace45ed6b737c23a964ca8ed4e41
 Description: Respring smoothly and with ease invoking the reachability gesture
 Name: ReachSpring
 Author: Luki
@@ -801,6 +859,25 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.byebyeadvisorylabel
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.byebyeadvisorylabel/depiction.json
 
+Package: me.luki.canna
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.canna_0.9.0_iphoneos-arm64.deb
+Size: 53042
+MD5sum: a7d1199660a90dbb85dbcb6db82f607d
+SHA1: f68df29357e896fab7f467d9464f98ba0879d070
+SHA256: 42c272e0517c88c0ea31f683c3f5414c356d4ea9e5e913be592873d30cd2f0b8
+SHA512: 4dea337d9a2eab616778963696f5f5de795f7ed3efd57bdc5b728310049b45d9e190e1858e228544383e937799c37a6381c0d0fed14b518a999883ddd6553d70
+Description: iOS 6 (or custom) charging & lock sounds
+Name: Canna
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.canna
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.canna/depiction.json
+
 Package: me.luki.elixir
 Architecture: iphoneos-arm64
 Version: 0.9.4
@@ -938,6 +1015,26 @@ Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
 
+Package: me.luki.iwanttranslucent
+Architecture: iphoneos-arm64
+Version: 0.9.4
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.iwanttranslucent_0.9.4_iphoneos-arm64.deb
+Size: 5496
+MD5sum: 7e531702929ac7329b170637ab6f34a6
+SHA1: 970c927177c447adf790b983ab2aeebf76f63362
+SHA256: 33d60221f485de3414871714bcb2ca6a7b122fb3f55c1fdf31f82d8ccee6a90c
+SHA512: 91a3aa7dc2736b930b0923e633e51487cf76c8d62b884c7915718ab2851a58f3f9f7dacfdbe1490867c5e41bd8f13a25e8b28ba374838bd69dfb5494ba6bd154
+Description: An awesome MobileSubstrate tweak indeed
+Name: IWantTranslucent
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/SpringBoard/IWantTranslucent/IWantTranslucent.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
+
 Package: me.luki.kaia
 Architecture: iphoneos-arm64
 Version: 0.9.0
@@ -976,6 +1073,25 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.kaia
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.kaia/depiction.json
 
+Package: me.luki.legacyrings
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 168
+Depends: mobilesubstrate, love.litten.libkitten
+Filename: ./debians/rootless/me.luki.legacyrings_0.9.0_iphoneos-arm64.deb
+Size: 4296
+MD5sum: 06546bd49ac1e69cd9a5624b9ce1efee
+SHA1: ba3bab47407b5d1f0dd7f499be94f2c376bc48df
+SHA256: 981603598526c321626a5da3938db01210265a43b7800b920ad2b942edd42e5e
+SHA512: 9c65751d323078dc4c1d1040a34c5391f649d3a49912cc6b7a5568579fc4c2d4e6ce4c5addcc2bb209436dc2bd046969387e8ec5a9cd32e47bb13ed4c2804847
+Description: Bring back the old iOS 9 keypad buttons
+Name: LegacyRings
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.legacyrings
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.legacyrings/depiction.json
+
 Package: me.luki.marie
 Architecture: iphoneos-arm64
 Version: 1.0.6
@@ -1009,6 +1125,25 @@ MD5sum: 1158fbe2e266dc59608484ce5eafdd1b
 SHA1: 78d46bcde5b0c57b93af21413bfbbabe17e14e15
 SHA256: acd63bd2cd7dd7e69a40f7704d7cea951ef9d5c419d82d41c6cea319a0da5b0f
 SHA512: 7c92d1a3702a7e8ba7fb369913fc3e8d45e2dafd837cbf616e58ff42e15d53489f115cf3fc31426bc963ef9036facda4eb182079c8b480457f53449dd848587e
+Description: Respring smoothly and with ease invoking the reachability gesture
+Name: ReachSpring
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.reachspring
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.reachspring/depiction.json
+
+Package: me.luki.reachspring
+Architecture: iphoneos-arm64
+Version: 0.9.2
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.reachspring_0.9.2_iphoneos-arm64.deb
+Size: 3516
+MD5sum: 239c6eaf4153142f75138be8f33fb221
+SHA1: 2e529ad674cae3e99e4a8fb1c0608c94fb15d9a4
+SHA256: 0022b3254fa9bea8652a78f9379ec91f47461e3c3b7abfb9a78a082f5ca5cc95
+SHA512: 21a064368a206bec32f9ca7bdf11175a3b4113adbd1f5ed9d0ebead504389378bf7d4c83ba9d6479367ea7951ecc179fa8692d0f675c6c1a1070711f57d39460
 Description: Respring smoothly and with ease invoking the reachability gesture
 Name: ReachSpring
 Author: Luki

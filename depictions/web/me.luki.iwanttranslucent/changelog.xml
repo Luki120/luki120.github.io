@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>0.9.2</version>
-		<change>Supports iOS 15+</change>
+		<version>0.9.4</version>
+		<change>Added support for iOS 15+, 16+ &amp; context menu titles.</change>
 	</changes>
 </changelog>

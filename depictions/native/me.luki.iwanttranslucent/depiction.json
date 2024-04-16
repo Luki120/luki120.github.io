@@ -13,15 +13,6 @@
 					"useBottomMargin": false
 				},
 				{
-					"markdown": "",
-					"useSpacing": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"class": "DepictionSpacerView",
-					"spacing": 8
-				},
-				{
 					"itemSize": "{160, 275.41333333333336}",
 					"itemCornerRadius": 6,
 					"class": "DepictionScreenshotsView",

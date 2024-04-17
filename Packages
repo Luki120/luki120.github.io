@@ -82,26 +82,6 @@ SileoDepiction: https://luki120.github.io/depictions/native/me.luki.april/depict
 
 Package: me.luki.aria
 Architecture: iphoneos-arm
-Version: 0.9.6~RC
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 712
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debians/root/me.luki.aria_0.9.6~RC_iphoneos-arm.deb
-Size: 98594
-MD5sum: fcd09534ac2f0df7fe9aca5a3100fa74
-SHA1: dc5f4992eeb1afa341057cee50583afbb7611c9e
-SHA256: a6b430ba52a1995f423af64ac9b3c8c8a1a99dc81af326a288d4d0dd3e6e47c8
-SHA512: 39eb598ed1af7034098b7477fe2ba032ac29c11624e0f3798ff6608567fa5408497e1f3f49fb1cf3b4680f531818ffe074f875a6471f9fac90478aac26daeee0
-Description: Enhance the stock CC or Prysm on the fly
-Name: Aria
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/Aria/main/AriaPrefs/Resources/Assets/AriaIcon.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aria
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aria/depiction.json
-
-Package: me.luki.aria
-Architecture: iphoneos-arm
 Version: 0.9.8~RC
 Section: Tweaks
 Maintainer: Luki
@@ -253,26 +233,6 @@ Name: Cora
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.cora
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.cora/depiction.json
-
-Package: me.luki.elixir
-Architecture: iphoneos-arm
-Version: 0.9.2
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 184
-Depends: mobilesubstrate
-Filename: ./debians/root/me.luki.elixir_0.9.2_iphoneos-arm.deb
-Size: 6620
-MD5sum: 146ba120f6acf95f218cf112fc4b2204
-SHA1: d05f18508a69ed7df167538b50e75aa7dc8c98ca
-SHA256: 786ad33905bc693523c55a96e9657a6665757123ad36b2e8c1a4c752aa496cca
-SHA512: a128ed4d0cd4824ec34cf4113cb6b72700ce45bf7d8ddc011d399c33b63265032ce4f545a9fad62c1fabadf969a8a650cb92bcf16a1dd731059f1a29fd74daf8
-Description: Tweak count at a glimpse
-Name: Elixir
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Elixir/ElixirIcon.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.elixir
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.elixir/depiction.json
 
 Package: me.luki.elixir
 Architecture: iphoneos-arm
@@ -506,26 +466,6 @@ Name: LegacyRings
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.legacyrings
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.legacyrings/depiction.json
-
-Package: me.luki.marie
-Architecture: iphoneos-arm
-Version: 1.0.5
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 944
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debians/root/me.luki.marie_1.0.5_iphoneos-arm.deb
-Size: 552886
-MD5sum: e052f1c1745eb9ddee6ddff2c4e73da5
-SHA1: 1d07a88dad3fddaeeb021147118a5bec492dd37f
-SHA256: 5ff9c14bdc667cf7b42679bfc4eeb15aaa377f54eaed5ea20c64f670406323ba
-SHA512: bf9977d3b080fd6d83d09dd437258c30a9235ae4ec8b80684f2736353e9ef052618ac1c4434170217c7dc59fe381810100c8658a15391e135085320c6e62020b
-Description: Put an image for the dialer, passcode or sharesheet background on the fly
-Name: Marie
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieIcon.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
 
 Package: me.luki.marie
 Architecture: iphoneos-arm

@@ -1,7 +1,7 @@
 <package>
 	<id>me.luki.azure</id>
 	<name>Azure</name>
-	<version>0.9.6</version>
+	<version>0.9.8</version>
 	<compatibility>
 		<firmware>
 			<miniOS>14.0</miniOS>
@@ -14,19 +14,19 @@
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image>AzureHome.png</image>
+			<image>Home.png</image>
 		</screenshot>
 		<screenshot>
 			<description></description>
-			<image>AzureSettings.png</image>
+			<image>Settings.png</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>
-			<![CDATA[• Added support for editing issuers <br />
-			• Added a new "Support development" section with Ko-fi & PayPal links <br />
-			• Implemented a clear all button with clean good looking animations for the new issuer forms <br />
-			• Strip whitespace from the text that gets pasted (or typed) in the secret's text field]]>
+			<![CDATA[• Added Cloudflare logo <br />
+			• Added an option to toggle the floating button <br />
+			• Fixed QR code string not being percent encoded when scanning a QR code <br />
+			• Overall bug fixes &amp; improvements]]>
 		</change>
 	</changelog>
 	<links>

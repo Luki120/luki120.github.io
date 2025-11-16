@@ -19,11 +19,11 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Azure Home",
-							"url": "https://raw.githubusercontent.com/Luki120/Azure/main/Assets/AzureHome.png"
+							"url": "https://raw.githubusercontent.com/Luki120/Azure/main/Assets/Home.png"
 						},
 						{
 							"accessibilityText": "Azure Settings",
-							"url": "https://raw.githubusercontent.com/Luki120/Azure/main/Assets/AzureSettings.png"
+							"url": "https://raw.githubusercontent.com/Luki120/Azure/main/Assets/Settings.png"
 						}
 					]
 				},
@@ -38,12 +38,12 @@
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"text": "0.9.6",
+					"text": "0.9.8",
 					"title": "Version",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"text": "8/3/24",
+					"text": "11/15/25",
 					"title": "Updated",
 					"class": "DepictionTableTextView"
 				},
